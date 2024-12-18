@@ -44,11 +44,15 @@ The AI uses the Minimax algorithm to calculate the best possible move for the co
 
 If you'd like to contribute to this project, feel free to fork the repository, make your changes, and create a pull request. Contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This project was built using Python and Tkinter.  
 Thanks to the open-source community for providing resources to help build this game.
+
+## Clone the Repository
+
+To clone this repository to your local machine, run the following command:
+
+```bash
+git clone https://github.com/your-username/tic-tac-toe-game.git
+
