@@ -54,5 +54,5 @@ Thanks to the open-source community for providing resources to help build this g
 To clone this repository to your local machine, run the following command:
 
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/usk2003/AI-TicTacToe_V2
 
